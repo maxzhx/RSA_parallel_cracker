@@ -1,0 +1,11 @@
+Private-Key: (84 bit)
+modulus:
+    0d908c386e24d61c971e6f
+publicExponent: 65537 (0x10001)
+privateExponent:
+    0a:02:09:02:a5:73:c5:a0:39:4e:e1
+prime1: 4224581673617 (0x3d79cb0a291)
+prime2: 3881719967999 (0x387c88a30ff)
+exponent1: 2785811773329 (0x2889f523791)
+exponent2: 3497676263335 (0x32e5dc04fa7)
+coefficient: 4027481823324 (0x3a9b89f985c)

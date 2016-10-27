@@ -1,0 +1,19 @@
+===== MPI Cracker Test (100 bits) =====
+=== Public Key ===
+{
+  bit: 100
+  modulus: 999474279557465472566830165957
+  publicExponent: 65537
+}
+
+... cracking with 128 nodes ...
+... found by node 50 ...
+exe_time: 15372.424391
+... waiting for exit of other processes ...
+
+=== Private Key ===
+{
+  prime1:939087560955473
+  prime2:1064303608217909
+  privateExponent:72287533532239450141029236993
+}

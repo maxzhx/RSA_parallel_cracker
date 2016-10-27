@@ -1,0 +1,53 @@
+===== Linear Cracker Test (64, 72, 80, 88 bits) =====
+=== Public Key ===
+{
+  bit: 64
+  modulus: 16669120120502208091
+  publicExponent: 65537
+}
+
+... cracking ...
+.... finished ....
+exe_time: 1.683330
+
+=== Private Key ===
+{
+  prime1:4032335309
+  prime2:4133862599
+  privateExponent:16617742077596979193
+}
+=== Public Key ===
+{
+  bit: 72
+  modulus: 3488227435434538165861
+  publicExponent: 65537
+}
+
+... cracking ...
+.... finished ....
+exe_time: 148.308958
+
+=== Private Key ===
+{
+  prime1:54538135853
+  prime2:63959418137
+  privateExponent:1554179182923056988673
+}
+=== Public Key ===
+{
+  bit: 80
+  modulus: 1091012023757740851347221
+  publicExponent: 65537
+}
+
+... cracking ...
+.... finished ....
+exe_time: 949.604581
+
+=== Private Key ===
+{
+  prime1:1015493556383
+  prime2:1074366269387
+  privateExponent:446546325361575632033377
+}
+slurmstepd: error: *** JOB 6213818 ON barcoo030 CANCELLED AT 2016-10-15T20:06:59 DUE TO TIME LIMIT ***

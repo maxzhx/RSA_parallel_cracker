@@ -1,0 +1,69 @@
+===== OMP Cracker Test (64, 72, 80, 88 bits) =====
+=== Public Key ===
+{
+  bit: 64
+  modulus: 16669120120502208091
+  publicExponent: 65537
+}
+
+... cracking with 16 threads ...
+... found by thread 3 ...
+exe_time: 0.658363
+
+=== Private Key ===
+{
+  prime1:4032335309
+  prime2:4133862599
+  privateExponent:16617742077596979193
+}
+=== Public Key ===
+{
+  bit: 72
+  modulus: 3488227435434538165861
+  publicExponent: 65537
+}
+
+... cracking with 16 threads ...
+... found by thread 8 ...
+exe_time: 9.025927
+
+=== Private Key ===
+{
+  prime1:54538135853
+  prime2:63959418137
+  privateExponent:1554179182923056988673
+}
+=== Public Key ===
+{
+  bit: 80
+  modulus: 1091012023757740851347221
+  publicExponent: 65537
+}
+
+... cracking with 16 threads ...
+... found by thread 1 ...
+exe_time: 58.085504
+
+=== Private Key ===
+{
+  prime1:1015493556383
+  prime2:1074366269387
+  privateExponent:446546325361575632033377
+}
+=== Public Key ===
+{
+  bit: 88
+  modulus: 267217346319630505079915827
+  publicExponent: 65537
+}
+
+... cracking with 16 threads ...
+... found by thread 0 ...
+exe_time: 1814.438346
+
+=== Private Key ===
+{
+  prime1:15442240208873
+  prime2:17304312243899
+  privateExponent:212332125775353966050874561
+}
