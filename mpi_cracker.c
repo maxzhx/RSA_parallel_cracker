@@ -112,6 +112,12 @@ int main(int argc, char *argv[]) {
     case 104:
       mpz_set_str(a, "00d8614305db62ad1b9db8ded2cf", 16);
       break;
+    case 108:
+      mpz_set_str(a, "095d4fe30ca5f84aa42a9daab0fb", 16);
+      break;
+    case 112:
+      mpz_set_str(a, "00d9a7f5e675dc36b3066ca8d81227", 16);
+      break;
     default :
       option = 12;
       mpz_set_str(a, "3233", 10);
